@@ -1,0 +1,9 @@
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\bin\Debug\netstandard2.0\GeoData.deps.json
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\bin\Debug\netstandard2.0\GeoData.dll
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\bin\Debug\netstandard2.0\GeoData.pdb
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\obj\Debug\netstandard2.0\GeoData.csprojAssemblyReference.cache
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\obj\Debug\netstandard2.0\GeoData.csproj.CoreCompileInputs.cache
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\obj\Debug\netstandard2.0\GeoData.AssemblyInfoInputs.cache
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\obj\Debug\netstandard2.0\GeoData.AssemblyInfo.cs
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\obj\Debug\netstandard2.0\GeoData.dll
+C:\Users\H245444\Documents\Imran\New folder\GeoData\GeoData\GeoData\obj\Debug\netstandard2.0\GeoData.pdb
